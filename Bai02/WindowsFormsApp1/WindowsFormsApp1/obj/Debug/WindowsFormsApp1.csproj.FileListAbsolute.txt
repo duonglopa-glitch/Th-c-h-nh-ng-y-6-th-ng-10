@@ -1,0 +1,10 @@
+C:\Users\LOQ\Downloads\Ngay6-10-2026\Bai02\Code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LOQ\Downloads\Ngay6-10-2026\Bai02\Code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LOQ\Downloads\Ngay6-10-2026\Bai02\Code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LOQ\Downloads\Ngay6-10-2026\Bai02\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay6-10-2026\Bai02\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormServiceBilling.resources
+C:\Users\LOQ\Downloads\Ngay6-10-2026\Bai02\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay6-10-2026\Bai02\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay6-10-2026\Bai02\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay6-10-2026\Bai02\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LOQ\Downloads\Ngay6-10-2026\Bai02\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
